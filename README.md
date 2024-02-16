@@ -18,7 +18,7 @@ I am learning how to correctivly use GitHub in the future. Here are some things 
 
 ## How to Run Program
 
-**This section is where I would practice using my coding skills!
+**This section is where I would practice using my coding skills!**
 
 ## File Used
 
